@@ -6,4 +6,4 @@ For manual installation, clone this repo to `C:\Users\userName\Documents\Rainmet
 
 For command installation, `git clone https://github.com/SidonTheTroll/rainmeter-config --depth 1 C:\Users\userName\Documents\Rainmeter\Skins\mond`
 
-<img src="./src/sc.png"> 
+<img src="./src/sc.png"> ![Alt text](image.png)
